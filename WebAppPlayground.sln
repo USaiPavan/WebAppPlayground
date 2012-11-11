@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppPlayground", "WebApplication1\WebAppPlayground.csproj", "{43200F5A-7596-4894-8B3C-C1BFB7407F6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppPlayground", "WebAppPlayground\WebAppPlayground.csproj", "{43200F5A-7596-4894-8B3C-C1BFB7407F6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
