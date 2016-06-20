@@ -7,3 +7,9 @@ C:\Users\USaiPavan\Documents\Visual Studio 2010\Projects\WebAppPlayground\WebApp
 C:\Users\USaiPavan\Documents\Visual Studio 2010\Projects\WebAppPlayground\WebAppPlayground\obj\Debug\WebApplication1.dll
 C:\Users\USaiPavan\Documents\Visual Studio 2010\Projects\WebAppPlayground\WebAppPlayground\obj\Debug\WebApplication1.pdb
 C:\Users\USaiPavan\Documents\Visual Studio 2010\Projects\WebAppPlayground\WebAppPlayground\obj\Debug\WebAppPlayground.csprojResolveAssemblyReference.cache
+F:\MyProjects\Git\WebAppPlayground\WebAppPlayground\bin\WebApplication1.dll.config
+F:\MyProjects\Git\WebAppPlayground\WebAppPlayground\bin\WebApplication1.dll
+F:\MyProjects\Git\WebAppPlayground\WebAppPlayground\bin\WebApplication1.pdb
+F:\MyProjects\Git\WebAppPlayground\WebAppPlayground\obj\Debug\WebAppPlayground.csprojResolveAssemblyReference.cache
+F:\MyProjects\Git\WebAppPlayground\WebAppPlayground\obj\Debug\WebApplication1.dll
+F:\MyProjects\Git\WebAppPlayground\WebAppPlayground\obj\Debug\WebApplication1.pdb
